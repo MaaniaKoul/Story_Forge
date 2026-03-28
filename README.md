@@ -1,1 +1,3 @@
-# Story_Forge
+Story Forge is an AI-powered creative platform designed to generate engaging, dynamic, and personalized stories based on user input. The system allows users to provide prompts such as themes, characters, genres, or settings, and then intelligently crafts complete narratives using advanced natural language processing and generative AI techniques.
+
+The platform transforms simple ideas into fully structured stories by understanding context, maintaining narrative flow, and adapting tone and style according to user preferences. Whether it’s fantasy, mystery, sci-fi, or romance, Story Forge can create unique and imaginative content in seconds# Story_Forge
